@@ -1,0 +1,240 @@
+Button {
+    -fx-font-size: 10px;
+}
+#panel{
+    -fx-pref-height: 400;
+    -fx-pref-width: 400;
+    -fx-background-color: cadetblue;
+    -fx-fill-width : true;
+    -fx-focus-color : transparent;
+    -fx-faint-focus-color: transparent;
+}
+#pjatk{
+    -fx-pref-width: 400;
+    -fx-pref-height: 100;
+-fx-alignment:center;
+    -fx-text-alignment: center;
+-fx-translate-y: 50;
+    -fx-font-weight: lighter;
+    -fx-font-size: 35px;
+    -fx-font-family: Avenir;
+    -fx-text-fill: aliceblue;
+    -fx-background-color: goldenrod;
+
+}
+
+#start{
+    -fx-translate-x: 150;
+    -fx-pref-width: 100;
+    -fx-background-color: aliceblue;
+    -fx-text-alignment: center;
+    -fx-translate-y: 200;
+    -fx-font-size: 18px;
+    -fx-font-family: Avenir;
+    -fx-text-fill: cadetblue;
+
+}
+#sig{
+    -fx-pref-width: 400;
+    -fx-alignment: bottom-right;
+    -fx-text-alignment: right;
+    -fx-translate-y: 385;
+    -fx-font-size: 10;
+    -fx-text-fill: aliceblue;
+}
+#mainLabel{
+    -fx-pref-height: 400;
+    -fx-pref-width: 400;
+    -fx-background-color: cadetblue;
+    -fx-fill-width : true;
+    -fx-focus-color : transparent;
+    -fx-faint-focus-color: transparent;
+}
+#cities{
+    -fx-translate-y: 60;
+    -fx-pref-height: 50;
+    -fx-background-color : cadetblue;
+    -fx-fill-width : true;
+    -fx-focus-color : transparent;
+    -fx-faint-focus-color: transparent;
+}
+#total{
+    -fx-translate-y: 340;
+    -fx-pref-width: 400;
+    -fx-alignment: bottom-center;
+    -fx-text-alignment: right;
+    -fx-text-fill: aliceblue;
+    -fx-font-size: 20;
+    -fx-font-family: Avenir;
+
+}
+#budget{
+    -fx-translate-y: 340;
+    -fx-pref-width: 400;
+    -fx-alignment: bottom-right;
+    -fx-text-alignment: right;
+    -fx-text-fill: aliceblue;
+    -fx-font-size: 50;
+    -fx-font-family: Avenir;
+
+}
+#warsaw{
+    -fx-font-size: 20px;
+    -fx-font-family: Avenir;
+    -fx-text-fill: aliceblue;
+}
+#newyork{
+-fx-translate-x: 133;
+    -fx-font-size: 20px;
+    -fx-font-family: Avenir;
+    -fx-text-fill: aliceblue;
+
+}
+#london{
+-fx-translate-x: 267;
+    -fx-font-size: 20px;
+    -fx-font-family: Avenir;
+    -fx-text-fill: aliceblue;
+
+}
+
+#buy5 {
+    -fx-translate-y: 0;
+    -fx-translate-x: 150;
+    -fx-background-color: aliceblue;
+    -fx-text-alignment: center;
+    -fx-font-family: Avenir;
+    -fx-text-fill: cadetblue;
+
+
+}
+#buy4 {
+    -fx-pref-width: 50;
+    -fx-translate-x: 150;
+    -fx-pref-width: 100;
+    -fx-background-color: aliceblue;
+    -fx-text-alignment: center;
+    -fx-font-family: Avenir;
+    -fx-text-fill: cadetblue;
+    -fx-translate-y: 50;
+}
+#buy3 {
+    -fx-pref-width: 50;
+    -fx-translate-x: 150;
+    -fx-pref-width: 100;
+    -fx-background-color: aliceblue;
+    -fx-text-alignment: center;
+    -fx-font-family: Avenir;
+    -fx-text-fill: cadetblue;
+
+    -fx-translate-y: 100;
+}
+#buy2 {
+    -fx-pref-width: 100;
+    -fx-translate-x: 150;
+    -fx-pref-width: 100;
+    -fx-background-color: aliceblue;
+    -fx-text-alignment: center;
+    -fx-font-family: Avenir;
+    -fx-text-fill: cadetblue;
+
+    -fx-translate-y: 150;
+}
+#buy1 {
+    -fx-translate-x: 150;
+    -fx-pref-width: 200;
+    -fx-background-color: aliceblue;
+    -fx-text-alignment: center;
+    -fx-font-family: Avenir;
+    -fx-text-fill: cadetblue;
+    -fx-translate-y: 200;
+}
+#floorl5 {
+
+    -fx-font-size: 10px;
+    -fx-translate-x: 5;
+
+    -fx-translate-y: 0;
+}
+#floorl4 {
+
+    -fx-font-size: 10px;
+    -fx-translate-x: 5;
+
+    -fx-translate-y: 50;
+}
+#floorl3 {
+    -fx-font-size: 10px;
+
+    -fx-translate-x: 5;
+
+    -fx-translate-y: 100;
+}
+#floorl2 {
+    -fx-font-size: 10px;
+
+    -fx-translate-x: 5;
+
+    -fx-translate-y: 150;
+}
+#floorl1 {
+    -fx-pref-width: 400;
+    -fx-font-size: 10px;
+
+    -fx-translate-x: 5;
+
+    -fx-translate-y: 200;
+}
+
+#empId1 {
+-fx-translate-x: 5;
+    -fx-pref-width: 50;
+    -fx-pref-height: 30;
+    -fx-text-fill: goldenrod;
+    -fx-background-color: aliceblue;
+    -fx-font-size: 12px;
+}
+#empId2 {
+-fx-translate-x: 64;
+    -fx-pref-width: 50;
+    -fx-pref-height: 30;
+    -fx-text-fill: goldenrod;
+    -fx-background-color: aliceblue;
+    -fx-font-size: 12px;
+}
+#empId3 {
+-fx-translate-x: 123;
+    -fx-pref-width: 50;
+    -fx-pref-height: 30;
+    -fx-text-fill: goldenrod;
+    -fx-background-color: aliceblue;
+    -fx-font-size: 12px;
+}
+#empId4 {
+-fx-translate-x: 182;
+    -fx-pref-width: 50;
+    -fx-pref-height: 30;
+    -fx-text-fill: goldenrod;
+    -fx-background-color: aliceblue;
+    -fx-font-size: 12px;
+}
+#empId5 {
+-fx-translate-x: 241;
+    -fx-pref-width: 50;
+    -fx-pref-height: 30;
+    -fx-text-fill: goldenrod;
+    -fx-background-color: aliceblue;
+    -fx-font-size: 12px;
+}
+#manager {
+-fx-translate-x: 300;
+    -fx-pref-width: 50;
+    -fx-pref-height: 30;
+    -fx-font-family: Avenir;
+    -fx-text-fill: aliceblue;
+    -fx-background-color: goldenrod;
+    -fx-font-size: 12px;
+}
+#income {
+-fx-translate-x: 354;
+}
